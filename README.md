@@ -61,7 +61,7 @@ kubectl set image deployment/desafio4-web webapp=mysven/desafio3:v13
 
 ## Archivos incluidos
 
-- `desafio4-deployment.yaml`: Contiene los manifiestos de Kubernetes (Secrets, PVCs, Deployments, Services).
+- `desafio4.yaml`: Contiene los manifiestos de Kubernetes (Secrets, PVCs, Deployments, Services).
 
 
 ## Desinstalación (Uninstall)

@@ -64,7 +64,7 @@ kubectl set image deployment/desafio4-web webapp=mysven/desafio3:v13
 - `desafio4.yaml`: Contiene los manifiestos de Kubernetes (Secrets, PVCs, Deployments, Services).
 
 
-## Desinstalación (Uninstall)
+## Desinstalación 
 
 Para eliminar completamente todos los recursos creados por este despliegue (Deployments, Services, Secrets, ConfigMaps, PVCs), se puede usar el siguiente comando:
 
